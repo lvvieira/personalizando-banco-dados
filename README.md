@@ -17,7 +17,7 @@ Este projeto apresenta um banco de dados personalizado com índices otimizados e
 ## Instruções:
 1. Clone este repositório:
     ```bash
-    git clone https://github.com/seuusuario/personalizando-banco-dados.git
+    git clone https://github.com/lvvieira/personalizando-banco-dados.git
     ```
 2. Execute os scripts em sequência:
     - Criação de índices: `create_indices.sql`
